@@ -232,7 +232,6 @@ The legend provides information about the map elements and their corresponding c
 The following code example gives you the complete code of above configurations.
 ###### Xaml
 ```xaml
-<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:map="clr-namespace:Syncfusion.Maui.Maps;assembly=Syncfusion.Maui.Maps"
